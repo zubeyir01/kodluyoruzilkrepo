@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## PATİKADEV
 [Patika.dev](https://app.patika.dev/zbyr) 
-
+![projeGorseli](https://github.com/zubeyir01/kodluyoruzilkrepo/blob/main/img/ilkrepo.png)
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
